@@ -6,3 +6,5 @@ int main ()
         cout <<"2  X  "<<i<<"  =  "<<i*2<<endl;
     }
 }
+
+
