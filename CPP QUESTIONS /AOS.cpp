@@ -2,6 +2,7 @@
 // #include<conio.h>
 using namespace std;
 
+
 int main (){
     int s;
     cout <<"enter your side of square";
